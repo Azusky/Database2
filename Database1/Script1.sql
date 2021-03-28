@@ -1,0 +1,1 @@
+﻿create table [dbo].[Users](Id int primary key identity, name varchar(30) not null unique)
